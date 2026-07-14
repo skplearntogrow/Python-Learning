@@ -7,6 +7,8 @@
 - Code Refactoring
 **Repository Structure:**
 01 Python Syntax
-02 Variables
+02 Python Output
 
 **Progress:**
+01 Python sytax -> Completed
+02 Python Output -> In-Progress

@@ -7,3 +7,15 @@
 6. Print Numbers
 7. Print Math
 8. Print Text with Numbers
+
+**Completed Status:**
+Python syntax concepts completed below:
+Theory examples
+practice programs
+Refactoring code
+
+----------------------------------------------------------------------------------------------------
+**Learning Sources:**
+W3Schools
+
+---------------------------------------------------End----------------------------------------------

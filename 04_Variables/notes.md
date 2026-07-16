@@ -4,3 +4,5 @@
 3. Variables are created when a value is assined for first time.
 4. Variables do not need to be declared with particular type. The type can be changed after they are set. As python execute immediate after each line, python takes new value as latest for the same variable already value was set
 5. To specify data type of a variable is done by Casting
+6. If we want to get the data type of a variable, use type()
+7. String variables can be declared using single or double quotes.

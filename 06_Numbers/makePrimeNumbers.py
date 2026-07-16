@@ -22,5 +22,3 @@ def random_prime():  # Define a function that keeps trying random numbers until 
 print(random_prime())  # Call the function and print the random prime number
 
 # Prime numbers are whole numbers that cannot be divided evenly by any other number except 1 and number itself.
-
-    

@@ -9,4 +9,6 @@
 7. Type Conversion: Python allows us to convert from one type to another with int(),float() and complex() functions.
     Note: We cannot convert complex number to another numeric type
 8. Python does not hav random function to create random number, but python has a built-in module called random that can be used to make Random numbers.
+9. Practice program to generate random number and check random number is prime or not and print prime number.
+10. Practice programs to print an input number provided is Prime or Not Prime. Created multiple versions for this scenario to simplifying python programming in shortest code possible.
 --------------------------------------------End------------------------------------------------

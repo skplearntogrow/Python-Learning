@@ -7,3 +7,10 @@ import random
 print(random.randrange(1,10))
 # random.randrange(start,stop,step)
 print(random.randrange(1,5))
+
+# Another example for random
+#Rolling a dice
+import random
+print("Rolling a Dice")
+dice = random.randrange(1,7,1)
+print(f"Random dice is {dice}")

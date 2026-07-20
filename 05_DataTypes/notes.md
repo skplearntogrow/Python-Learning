@@ -12,3 +12,4 @@
     6. Boolean type: bool
     7. Binary type: bytes, bytearray, memoryview
     8. None type: NoneType
+5. Practice programs to code set datatypes, retrieve data types, set specific data types

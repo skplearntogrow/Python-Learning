@@ -86,5 +86,22 @@ a. Bitwise operators are used to compare Binary numbers
 >> # Bitwise Right shift
 
 11. Operators Precedence
+Operator Precedence describes the order in which Operations are Performed.
+    1. Parenthesis has Highest Precedence. It means Operations in paranthesis are performed first.
+    2. Multiplication has Higher precedence than Addition.
+    3. Left to Right Evaluation # if two Operators have same precedence then evaluated left to right
+    4. Precedence Order
 
-
+            () #Parenthesis
+            ** #Exponentiation
+            +x,-x,~x #uniary+, uninary -, bitwise NOT
+            *, /, //, % #Multiplication, division, floor division and Modulus
+            + - #Addition and subtraction
+            << , >> Bitwise left and right shifts
+            & Bitwise AND
+            ^ Bitwise XOR
+            | Bitwise OR
+            ==, !=,>,<,>=,<=,is, is not,in, not in #Comparison, Identity and Membership Operators
+            not #Logical NOT
+            and #Logical AND
+            or #Logical OR

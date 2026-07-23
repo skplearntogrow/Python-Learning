@@ -34,3 +34,7 @@ Floor Division //
 >>= Right shift and assign
 <<= Left shift and assign
 := Walrus Operator [Assignment Expression]
+
+5. Ternary Operator
+1. The Ternary operator allows to assign one value if a condition is true and another value if condition is false
+2. The Ternary Operator can be used instead of elif in longer if statements.

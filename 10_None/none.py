@@ -17,6 +17,6 @@ print(bool(None))
 # Function returning None. Functions that do not explicitly return a value return None.
 def myfun():
     x=5
-    return 5
+    #return 5
 x= myfun()
 print(x)

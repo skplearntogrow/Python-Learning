@@ -44,13 +44,13 @@ print(x)
 #Extra Learning
 #-------------------------------------------------------------------
 # Convert integer value to binary
-y= 20
+y= 4
 b= bin(y)
 print(b)
 # Convert Binary value to Decimal
 # Binary value is considered as string in python hence when assigning binary value to variable give "" or ''
 # Binary value in python is represented by 0b. Ex: 0b1010 , 0b1111
-y= '1011'
+y= '00100'
 d= int(y,2)
 print(d)
 #-------------------------------------------------------------------
